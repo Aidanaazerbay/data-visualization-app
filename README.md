@@ -1,4 +1,4 @@
-***** Data & Interactive Visualization Dashboards
+### Data & Interactive Visualization Dashboards
 This repository contains design patterns, dashboard layouts, and reporting frameworks for sports data visualization and performance tracking.
 Dashboard Features
 1. Match Performance Trends
